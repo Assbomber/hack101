@@ -18,7 +18,6 @@ $("#loginbtn").click(function(){
     temp=Number(pass);
     fuser=encodeuser(fuser);
     fpass=endcodepass(fpass);
-    console.log(fpass);
   }
   catch(err){
     $(".logs").append(err);
