@@ -50,5 +50,3 @@ function endcodepass(pass){
   }
   return pas%2;
 }
-
-// index.js:32 9710010511612197
